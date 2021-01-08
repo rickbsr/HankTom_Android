@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "388632846764",
+    "firebase_url": "https://hahow-andoridapp.firebaseio.com",
+    "project_id": "hahow-andoridapp",
+    "storage_bucket": "hahow-andoridapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388632846764:android:cab57380b0b44a1f",
+        "android_client_info": {
+          "package_name": "com.codingbydumbbell.app_atm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "388632846764-iouboeugt11nd5enuavrcmgg1nba6qb9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codingbydumbbell.app_atm",
+            "certificate_hash": "0d9189f30d9f7a93dfecb7e2e30c411c1367048d"
+          }
+        },
+        {
+          "client_id": "388632846764-6qit8frkilu285fro6cspkprubkvqots.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBylUVSOXDD0hbgNH-ktv2GlTNtldLshMY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "388632846764-6qit8frkilu285fro6cspkprubkvqots.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
