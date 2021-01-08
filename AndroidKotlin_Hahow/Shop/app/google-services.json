@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "672617730454",
+    "firebase_url": "https://hahow-kotlinandoridapp.firebaseio.com",
+    "project_id": "hahow-kotlinandoridapp",
+    "storage_bucket": "hahow-kotlinandoridapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:672617730454:android:076f188bf2d40fb6",
+        "android_client_info": {
+          "package_name": "com.codingbydumbbell.shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "672617730454-gk819qebkd85orbpfu1opgrnmtljvqgb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codingbydumbbell.shop",
+            "certificate_hash": "0d9189f30d9f7a93dfecb7e2e30c411c1367048d"
+          }
+        },
+        {
+          "client_id": "672617730454-jvhb2a1bu16n6ujh8tfnpoqqjr3iqbg6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHdzuaMZfUlFQdbS2A6uN4lmRNvuJS9Po"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "672617730454-jvhb2a1bu16n6ujh8tfnpoqqjr3iqbg6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
